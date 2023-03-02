@@ -2,24 +2,23 @@
 
 /**
  * puts_half - prints half of a string
- * @str: input
+ * @str: char to check
+ *
+ * Return: 0 is success
  */
 void puts_half(char *str)
 {
-	int len = 0;
+	int string = 0, n;
 
-	while (*str != '\0')
-	{
-		len++;
-		str++;
-	}
+	while (str[string] != '\0')
+		string++;
+	if (string + 1 % 2 != '0')
+		n = (string - 1) / 2;
+	else
+		n = (string / 2);
+	n++;
 
-	str -= (len / 2);
-	while (*str != '\0')
-	{
-		_putchar(*str);
-		str++;
-	}
-
-	_putchar('\n')
+	for (string = n; str[string] != '\0'; string++)
+	_putchar(str[string]);
+	_putchar('\n');
 }
