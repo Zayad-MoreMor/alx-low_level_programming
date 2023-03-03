@@ -1,6 +1,7 @@
 0x06. C - More pointers, arrays and strings
 
 A Description of All The Project Tasks & Questions for this Project Module
+<<<<<<< HEAD
 
 Requirements
 General
@@ -157,7 +158,7 @@ Task: 103-infinite_add.c
 Task 12
 Write a function that prints a buffer.
 
-Prototype: void print_buffer(char *b, int size);
+Prototype: void print buffer(char *b, int size);
 The function must print the content of size bytes of the buffer pointed by b
 The output should print 10 bytes per line
 Each line starts with the position of the first byte of the line in hexadecimal (8 chars), starting with 0
@@ -168,3 +169,5 @@ If size is 0 or less, the output should be a new line only \n
 You are allowed to use the standard library
 The output should look like the following example, and formatted exactly the same way:
 File: 104-print_buffer.c
+=======
+>>>>>>> 7cde8fa2853602024d6fcc5ead409f2e42125147
