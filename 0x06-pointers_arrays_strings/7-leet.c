@@ -8,18 +8,16 @@
 
 char *leet(char *n)
 {
-	int i, l;
-	char s1[] = "aAeo0tT1L";
-	char s2[] = "4433007711";
+	int i, j;
+	char a[] = "aAeEoOtTlL";
+	char b[] = "4433007711";
 
-	for (i = 0; n[i] != '\0'; i++)
+	for (i = 0; *(n + i); i++)
 	{
-		for (l = 0; l < 15; l++)
+		for (j = 0; j <= 9; j++)
 		{
-			if (n[i] == s1[l])
-			{
-				n[i] = s2[l];
-			}
+			if (a[j] == s[i])
+				n[i] = b[j];
 		}
 	}
 	return (n);
