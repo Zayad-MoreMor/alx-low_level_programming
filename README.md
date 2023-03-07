@@ -1,6 +1,14 @@
 # alx-low_level_programming
+It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware. Skip to content Toggle navigation. Product. Actions. Automate any workflow.
 
-What is C?
+Low-level languages are languages that sit close to the computer's instruction set . An instruction set is the set of instructions that the processor understands. Two types of low-level language are: machine code. assembly language.
+
+What are the three low level programming languages?
+Levels of programming languages[edit]
+
+Assembly: A low-level source-like language specific to a machine or an application. Bytecode: A low-level binary representation of code that can be run by other applications. Machine code: A binary representation of code that can be run directly by hardware.
+
+# What is C?
 C is an imperative (procedural) language.
 All the code has to be inside a function.
 C files are source code of your program.
