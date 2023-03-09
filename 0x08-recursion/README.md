@@ -1,8 +1,8 @@
-# 0x08. C - Recursion
+## 0x08. C - Recursion
 
 Recursion is the process of repeating items in a self-similar way. In programming languages, if a program allows you to call a function inside the same function, then it is called a recursive call of the function.
 
-## C - Recursion
+## C - Recursion Tasks
 
 #### [0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget](0-puts_recursion.c)
 
