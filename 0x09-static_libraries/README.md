@@ -5,10 +5,11 @@ Unix systems (as well as most other modern systems) allow us to create and use t
 
 Static libraries are just collections of object files that are linked into the program during the linking phase of compilation, and are not relevant during runtime. This last comment seems obvious, as we already know that object files are also used only during the linking phase, and are not required during runtime - only the program's executable file is needed in order to run the program.
 
-C - Static libraries
+## C - Static libraries
+In the C programming language, a static library is a compiled object file containing all symbols required by the main program to operate (functions, variables etc.) as opposed to having to pull in separate entities. Static libraries aren't loaded by the compiler at run-time; only the executable file need be loaded.
 
 
-TASKS
+## TASKS
 
 
 [0. A library is not a luxury but one of the necessities of life](libmy.a)
