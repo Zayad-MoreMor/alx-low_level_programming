@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+0x00. C - Hello, World
+=======
 # alx-low_level_programming
 It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware. Skip to content Toggle navigation. Product. Actions. Automate any workflow.
 
@@ -37,4 +40,3 @@ packaged as a unit
 ● Compute something
 ● May return a result
 ● Functions can call functions
-Parameters and return values must have a type
