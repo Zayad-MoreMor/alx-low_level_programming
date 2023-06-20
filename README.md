@@ -1,7 +1,9 @@
 # alx-low_level_programming
-my name is Zayad Hassan am a Certified Virtual Assistant & Media Consultant; A Software Engineer. alx-low_level_programming It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware. 
+My name is Zayad Hassan am a Certified Virtual Assistant & Media Consultant; A Software Engineer. 
+alx-low_level_programming It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware. 
 <<< HEAD
-0x00. C - Hello, World
+
+# 0x00. C - Hello, World
 =======
 # alx-low_level_programming
 It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware. Skip to content Toggle navigation. Product. Actions. Automate any workflow.
